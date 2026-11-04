@@ -1,1 +1,0 @@
-{"name":"strada-nutrition","version":"1.0.0","private":true,"scripts":{"dev":"python3 -m http.server 4173 --directory public","build":"node scripts/build.mjs"}}
